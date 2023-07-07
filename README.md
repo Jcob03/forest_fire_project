@@ -1,1 +1,1 @@
-# forest_fire_project
+Repo zawiera program - model płonącego lasu
